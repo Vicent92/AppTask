@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxOGU5YjA5ZTQwMGIyZTExNjJjNmQ2ZiIsInVzZXJuYW1lIjoiZWxNYW51IiwiaWF0IjoxNjM2OTkzMjQ4LCJleHAiOjE2Mzc1OTgwNDh9.fpYBhrojnVCqf4wYA89kR6Vc11rSI_JgaMQ64ruzLBE
+
+{
+    "content": "prueba de nuevo 2" 
+}
