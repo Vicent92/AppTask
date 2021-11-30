@@ -6,6 +6,9 @@
     "AppTask",
     "react-task"
   ],
+  "engines": {
+    "npm": "8.1.0"
+  },
   "main": "index.js",
   "scripts": {
     "build": "npm run build --workspaces=react-task",
